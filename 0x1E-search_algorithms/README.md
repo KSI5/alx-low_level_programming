@@ -1,10 +1,11 @@
 # 0x1E. C - Search Algorithms 📖
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Your_Name-blue" alt="Author">
-  <img src="https://img.shields.io/badge/Cohort-Your_Cohort-green" alt="Cohort">
-  <img src="https://img.shields.io/badge/Updated-Date-blue" alt="Updated">
-  <img src="https://img.shields.io/badge/LinkedIn-Your_Linkedin-blue" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Author-Chris Igebu-green" alt="Author">
+  <img src="https://img.shields.io/badge/2023-10-10-white" alt="Updated">
+  <img src="https://img.shields.io/badge/LinkedIn-christopher-igebu-green" alt="LinkedIn">
+</p>
+
 </p>
 
 ## Table of Contents 📑
