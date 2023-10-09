@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-christopher-igebu-green" alt="LinkedIn">
 </p>
 
-</p>
 
 ## Table of Contents 📑
 - [Project Description](#project-description)
