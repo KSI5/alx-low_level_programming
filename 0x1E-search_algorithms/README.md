@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Chris%20Igebu-green" alt="Author">
   <img src="https://img.shields.io/badge/Updated-2023--10--10--white" alt="Updated">
-  <a href="https://www.linkedin.com/in/christopher-igebu-8b66b6138/">
-    <img src="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchristopher-igebu-8b66b6138%2F-green" alt="LinkedIn">
-  </a>
 </p>
 
 
