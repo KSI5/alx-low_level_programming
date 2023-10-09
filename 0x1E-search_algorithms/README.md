@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Chris Igebu-green" alt="Author">
-  <img src="https://img.shields.io/badge/2023-10-10-white" alt="Updated">
+  <img src="https://img.shields.io/badge/Updated-2023-10-10-white" alt="Updated">
   <img src="https://img.shields.io/badge/LinkedIn-christopher-igebu-green" alt="LinkedIn">
 </p>
 
